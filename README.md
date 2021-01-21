@@ -11,5 +11,5 @@ This repository comes with 2 Notebooks and each presentation is a standalone lit
 2. The structured Dataset: Movie Recommender
 
 
-***
+---
 Thank you for your time and Stay Safe!
