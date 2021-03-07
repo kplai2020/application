@@ -1,6 +1,6 @@
 ## Welcome & Objective
 
-Welcome to my repository on Github and once again, thank you for considering me. This repository aims to give you an overview on my skill sets, especially in: 
+Welcome to my repository on Github which is designed to give you an overview on my skill sets, especially in: 
 
 - the exposure of working with **data variety** (e.g. unstructured & structured data), 
 - the comfortability of applying **quantitative techniques** (e.g. ML/DL/Applied Mathematics, Statistics, and Probability), and 
