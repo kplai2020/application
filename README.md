@@ -14,7 +14,7 @@ NOTE: This repository is designed for Job Application.
 
 1. Cifar-10 Image Classification via CNN
 2. IMDB Sentiment Classification via LSTM (Hyperparameters Tuning)
-3. Audio Generation via Generative Adversarial Netwoks (GANs)
+3. Freesound-Audio-Tagging Audio Generation via GANs
 4. Movie Recommender
 
 
