@@ -8,7 +8,10 @@ NOTE: This repository is designed for Job Application.
 
 This repository comes with 2 Notebooks and each presentation is a standalone little project, which is designed based on:
 
-1. The unstructured Dataset: Cifar-10 Image Classification via CNN 
+1. The unstructured Dataset: 
+  1. Cifar-10 Image Classification via CNN
+  2. IMDB Sentiment Classification via LSTM (Hyperparameters Tuning)
+  3. Audio Generation via Generative Adversarial Netwoks (GANs)
 2. The structured Dataset: Movie Recommender
 
 
