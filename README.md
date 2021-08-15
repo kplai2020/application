@@ -24,5 +24,7 @@ Computer Vision Folders:
 2. YOLOv3 - Object Detection
 3. Detectron2 - Instance & Semantic Segmentation
 
+[Link to Google](https://www.google.com)
+
 ##
 Thank you and Stay Safe!
