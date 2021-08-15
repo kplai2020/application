@@ -6,16 +6,24 @@ Welcome to my repository on Github which is designed to give you an overview on 
 - the comfortability of applying **quantitative techniques** (e.g. ML/DL/Applied Mathematics, Statistics, and Probability), and 
 - the level of **data literacy** (e.g. thought process / assumption making).
 
-NOTE: This repository is designed for Job Application.
+NOTE: This repository is ONLY designed for Job Application purposes.
 
 ## Quick Start:
 
-4 Notebooks are provided in this repository and each presentation is a standalone little project with its specific objective to be shared. :
+The following 4 Notebooks aim to give an overview on general used cases and each presentation is a standalone little project with its specific objective. :
 
 1. Cifar-10 Image Classification via CNN
 2. IMDB Sentiment Classification via LSTM (Hyperparameters Tuning)
 3. Freesound-Audio-Tagging Audio Generation via GANs
 4. Movie Recommender
+
+Do go into specific folders for more specific areas (e.g. Computer Vision, Natural Language Processing, Audio) and Deep Learning models. :
+
+1. Computer Vision Folders:
+
+  1.1 EfficientNetB3 - Image Classification
+  1.2 YOLOv3 - Object Detection
+  1.3 Detectron2 - Instance & Semantic Segmentation
 
 
 ##
