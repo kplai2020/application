@@ -20,7 +20,6 @@ The following 4 Notebooks aim to give an overview on general used cases and each
 Do go into specific folders for more specific areas (e.g. Computer Vision, Natural Language Processing, Audio) and Deep Learning models. :
 
 1. Computer Vision Folders:
- 
   - EfficientNetB3 - Image Classification
   - YOLOv3 - Object Detection
   - Detectron2 - Instance & Semantic Segmentation
