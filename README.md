@@ -15,7 +15,7 @@ The following 4 Notebooks aim to give an overview on general used cases and each
 1. Cifar-10 Image Classification via CNN
 2. IMDB Sentiment Classification via LSTM (Hyperparameters Tuning)
 3. Freesound-Audio-Tagging Audio Generation via GANs
-4. Movie Recommender
+4. [Movie Recommender](https://github.com/kplai2020/application/blob/main/recommendation_system.ipynb)
 
 Do go into specific folders for more specific areas (e.g. Computer Vision, Natural Language Processing, Audio) and Deep Learning models. :
 
