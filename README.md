@@ -21,9 +21,9 @@ Do go into specific folders for more specific areas (e.g. Computer Vision, Natur
 
 1. Computer Vision Folders:
 
-  1.1 EfficientNetB3 - Image Classification
-  1.2 YOLOv3 - Object Detection
-  1.3 Detectron2 - Instance & Semantic Segmentation
+  - EfficientNetB3 - Image Classification
+  - YOLOv3 - Object Detection
+  - Detectron2 - Instance & Semantic Segmentation
 
 
 ##
