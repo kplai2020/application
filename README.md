@@ -17,7 +17,7 @@ The following 4 Notebooks aim to give an overview on general used cases and each
 3. [Freesound-Audio-Tagging Audio Generation via GANs](https://github.com/kplai2020/application/blob/main/audio_gan/audio_gan.ipynb)
 4. [Movie Recommender](https://github.com/kplai2020/application/blob/main/recommendation_system.ipynb)
 
-Computer Vision Folders:
+Computer Vision Folder:
 1. [EfficientNetB3 - Image Classification](https://github.com/kplai2020/application/blob/main/Computer%20Vision/Image_Classification_EfficientNetB3.ipynb)
 2. [YOLOv3 - Object Detection](https://github.com/kplai2020/application/blob/main/Computer%20Vision/Object_Detection_YOLOv3.ipynb)
 3. [Detectron2 - Instance & Semantic Segmentation](https://github.com/kplai2020/application/blob/main/Computer%20Vision/Instance_Semantic_Segmentation_Detectron2.ipynb)
