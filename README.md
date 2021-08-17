@@ -10,7 +10,7 @@ NOTE: This repository is ONLY designed for Job Application purposes.
 
 ## Quick Start:
 
-The following 4 Notebooks aim to give an overview on general used cases and each presentation is a standalone little project with its specific objective. Do go into specific folders for more Deep Learning models and specific areas (e.g. Computer Vision, Natural Language Processing, Audio). :
+The following 4 Notebooks aim to give an overview on general used cases and each presentation is a standalone little project with its objective. Do go into folders for more Deep Learning models and specific areas (e.g. Computer Vision, Natural Language Processing, Audio). :
 
 1. [Cifar-10 Image Classification via CNN](https://github.com/kplai2020/application/blob/main/image_cnn/image_cnn.ipynb)
 2. [IMDB Sentiment Classification via LSTM (Hyperparameters Tuning)](https://github.com/kplai2020/application/blob/main/nlp_lstm.ipynb)
