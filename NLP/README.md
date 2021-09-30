@@ -24,7 +24,7 @@ This repository is structured as presented following:
 
 NOTE: 
 1. The files of this project are shared through 2 channels: Github and Google Drive.
-2. The epoch is intentionally designed to be set as 1 for checking purposes and hence, to gain a more promising result do re-traine the model.
+2. The epoch is intentionally set as 1 for checking purposes and hence, to gain a more promising result do re-traine the model.
 3. The dataset is only designed to read on 5000 train records for demo.
 4. The ner_result.csv file is just for a quick reference and hence, to gain a more promising result do re-traine the model.
 5. For your quick start, you may want to start with pipeline.py, the script is generally run as stated above.
