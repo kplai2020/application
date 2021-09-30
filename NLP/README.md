@@ -22,6 +22,7 @@ This repository is structured as presented following:
     - /trained_model.pt # trained model params that are learnt by the train.py
 
 
+
 NOTE: 
 1. The files of this project are shared through 2 channels: Github and Google Drive.
 2. The epoch is intentionally set as 1 for checking purposes and hence, to gain a more promising result do re-traine the model.
