@@ -1,0 +1,10 @@
+Keras==2.4.3
+pytorch_pretrained_bert==0.6.2
+pandas==0.24.2
+torch==1.7.1
+nltk==3.3
+seqeval==1.2.2
+tqdm==4.28.1
+transformers==4.10.0
+numpy==1.19.4
+scikit_learn==0.24.2
