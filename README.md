@@ -22,5 +22,9 @@ Computer Vision Folder:
 2. [YOLOv3 - Object Detection](https://github.com/kplai2020/application/blob/main/Computer%20Vision/Object_Detection_YOLOv3.ipynb)
 3. [Detectron2 - Instance & Semantic Segmentation](https://github.com/kplai2020/application/blob/main/Computer%20Vision/Instance_Semantic_Segmentation_Detectron2.ipynb)
 
+[Natural Language Processing (NLP)](https://github.com/kplai2020/application/tree/main/NLP) : presented as a small ML/DL project.
+
+
+
 ##
 Thank you and Stay Safe!
