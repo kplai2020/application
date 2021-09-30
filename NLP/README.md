@@ -4,6 +4,9 @@ The NLP section aims to demo how a ML/DL solution is presented as a small ML/DL 
 
 This repository is structured as presented following:
 
+- /data # shared by a source
+    - /train.tsv # train dataset
+    - /test.tsv # test dataset
 - /models
     - /model.py # main class of the model
     - /train.py # script to train the model
@@ -13,13 +16,10 @@ This repository is structured as presented following:
         2. Output: a list of entities if you are doing NER
     - /config.py # parameters setting
     - /data_prep.py # all data related preparation
-    
+- [/biobert_v1.1_pubmed](https://drive.google.com/drive/folders/1b4N2DFNLZomkYTyPZOWZ98SGbF5P90mZ?usp=sharing) # biomedical pre-trained models 
 - [/results](https://drive.google.com/drive/folders/1U27eyYw2Luh0-3-XruqgI0cSUBzxfac8?usp=sharing) # trained and produced from this test
     - /ner_result.csv # stored all the records that are detected by the pipeline.py
     - /trained_model.pt # trained model params that are learnt by the train.py
-
-- /data # shared by a source
-- [/biobert_v1.1_pubmed](https://drive.google.com/drive/folders/1b4N2DFNLZomkYTyPZOWZ98SGbF5P90mZ?usp=sharing) # biomedical pre-trained models
 
 
 NOTE: 
