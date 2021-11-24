@@ -6,7 +6,7 @@ Welcome to my Github repository that is designed to give the readers an overview
 - the comfortability of applying **quantitative techniques** (e.g. ML/DL/Applied Mathematics, Statistics, and Probability), and 
 - the level of **data literacy** (e.g. thought process / assumption making).
 
-NOTE: This repository is ONLY designed for Job Application purposes.
+NOTE: This repository summarises the commerical projects that I had worked and delivered in the past. Due to the company's privacy policy, only dummy data is used and this is ONLY designed for Job Application purposes. 
 
 ## Quick Start:
 
